@@ -4,13 +4,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
 ![Youtube Subscribers](https://img.shields.io//youtube/channel/subscribers/:ViszyA)
 
-- 🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+- I'm currently working on producing songs, and creating new applications.
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+- I’m currently learning **Flutter, SwiftUI**
 
-- 👯 I’m looking to collaborate with **other content creators**
-
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- I’m looking to collaborate with **other content creators**
 
 ### Connect with me:
 
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanthanpro&layout=compact&hide=html" alt="xanthanpro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanthanpro&show_icons=true" alt="xanthanpro" /></p>
-
