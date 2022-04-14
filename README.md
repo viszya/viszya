@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xanthan</h1>
 <h3 align="center">A self-taught programmer and a current music artist!</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
-![Youtube Subscribers](https://img.shields.io//youtube/channel/subscribers/:ViszyA)
+![Youtube Subscribers](https://img.shields.io//youtube/channel/subscribers/ViszyA)
 
 - I'm currently working on producing songs, and creating new applications.
 
