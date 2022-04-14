@@ -3,7 +3,7 @@
 
 ![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC03z9wDE6xsbdMc9WqfCQFQ?label=ViszyA%20%7C%20Youtube&logoColor=w&style=for-the-badge)
 
-- I'm currently working on producing songs, and creating new applications.
+- I'm currently working on **producing songs**, and creating new **applications**.
 
 - I’m currently learning **Flutter, SwiftUI, ML**
 
