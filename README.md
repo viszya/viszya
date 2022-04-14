@@ -16,4 +16,4 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanthanpro&show_icons=true&theme=dracula" alt="xanthanpro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanthanpro&show_icons=true&theme=radical" alt="xanthanpro" /></p>
