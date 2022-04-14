@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xanthan</h1>
 <h3 align="center">A self-taught programmer and a current music artist!</h3>
 
-![Youtube Subscribers](https://img.shields.io//youtube/channel/subscribers/ViszyA)
+![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC03z9wDE6xsbdMc9WqfCQFQ?style=for-the-badge)
 
 - I'm currently working on producing songs, and creating new applications.
 
-- I’m currently learning **Flutter, SwiftUI**
+- I’m currently learning **Flutter, SwiftUI, ML**
 
 - I’m looking to collaborate with **other content creators**
 
