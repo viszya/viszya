@@ -5,7 +5,7 @@
 
 - I'm currently working on **producing songs**, and creating new **applications**.
 
-- I’m currently learning **Flutter, SwiftUI, ML**
+- I’m currently learning **Flutter, SwiftUI, ML, & Svelte**
 
 - I’m looking to collaborate with **other content creators**
 
