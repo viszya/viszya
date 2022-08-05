@@ -8,8 +8,9 @@
 - I’m currently learning **Flutter, SwiftUI, ML, & Svelte**
 
 - I’m looking to collaborate with **other content creators**
+<br>
 
-### What I work with:
+## What I work with:
 
 ![Svelte](https://img.shields.io/badge/svelte-%23007ACC.svg?style=for-the-badge&logo=svelte&logoColor=white&labelColor=orange&color=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
