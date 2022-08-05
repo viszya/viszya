@@ -34,4 +34,4 @@
 
 <br />
 
-![Viszy A's Github Stats](https://github-readme-stats.vercel.app/api?username=viszya&show_icons=true&theme=radical)
+![Viszy A's Github Stats](https://github-readme-stats.vercel.app/api?username=viszya&show_icons=true&theme=tokyonight)
