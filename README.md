@@ -34,4 +34,4 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viszyao&show_icons=true&theme=tokyonight" alt="viszya" /></p>
+![Viszy A's Github Stats](https://github-readme-stats.vercel.app/api?username=viszya&show_icons=true&theme=radical)
