@@ -28,7 +28,8 @@
 
 ## Connect with me:
 
- - Email: xanthan.ex@gmail.com
+ - Email: viszy.a.dev@gmail.com (for dev related)
+ - Email: viszy.a.musician@gmail.com (for music related)
 
 
 <br />
