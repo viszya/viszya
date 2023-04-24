@@ -35,5 +35,5 @@
 
 <br />
 
-[![Viszy A's GitHub stats](https://github-readme-stats.vercel.app/api?username=viszya)](https://github.com/viszya/github-readme-stats)
-| <a href="https://github.com/viszya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viszya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="viszya's github stats" /></a> | <a href="https://github.com/viszya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viszya&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Viszy A's GitHub stats](https://github-readme-stats.vercel.app/api?username=viszya&include_all_commits=true)](https://github.com/viszya/github-readme-stats)
+
