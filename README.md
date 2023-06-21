@@ -35,5 +35,4 @@
 
 <br />
 
-[![Viszy A's GitHub stats](https://github-readme-stats.vercel.app/api?username=viszya&include_all_commits=true)](https://github.com/viszya/github-readme-stats)
 
